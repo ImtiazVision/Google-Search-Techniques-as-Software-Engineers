@@ -10,4 +10,4 @@
 
 5. **Logical OR | and Group ( )** We can use the **Pipe** operator as **OR**. For example, **(A | B)** as in Either A or B
 
-6. ** Wildcard ** 
+6. ***Wildcard** 

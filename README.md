@@ -11,3 +11,5 @@
 5. **Logical OR | and Group ( )** We can use the **Pipe** operator as **OR**. For example, **(A | B)** as in Either A or B
 
 6. ***Wildcard** To find all the subdomain within a specific website, Site:*.codingphase.com -www
+
+7. **Filetype:pdf** To find a specific type of file, we can use **filetype** 

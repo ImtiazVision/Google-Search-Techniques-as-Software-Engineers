@@ -13,3 +13,5 @@
 6. ***Wildcard** To find all the subdomain within a specific website, Site:*.codingphase.com -www
 
 7. **Filetype:pdf** To find a specific type of file, we can use **filetype** 
+
+8. **Related:React.io** We can search about some specific tech/topic via the keyword **related:topic-name**

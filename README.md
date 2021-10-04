@@ -9,3 +9,5 @@
 4. **Range #..#** We can search from a  range of dates by simply putting **2 dots** between them. For example, **React courses 2018..2021**
 
 5. **Logical OR | and Group ( )** We can use the **Pipe** operator as **OR**. For example, **(A | B)** as in Either A or B
+
+6. ** *Wildcard ** 
